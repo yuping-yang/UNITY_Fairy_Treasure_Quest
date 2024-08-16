@@ -1,0 +1,47 @@
+Base path: D:/chengxv/Unity4.9/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-5660
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=1782 outsize=3227 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5255 outsize=3094 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5255 outsize=2907 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2802 outsize=3053 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2802 outsize=3257 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2310 outsize=1697 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2310 outsize=1209 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4643 outsize=2883 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4643 outsize=2111 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2091 outsize=1648 kw=SHADOWS_DEPTH ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2091 outsize=1014 kw=SHADOWS_DEPTH ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4648 outsize=2607 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4648 outsize=1867 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2611 outsize=2875 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2611 outsize=2168 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2270 outsize=1697 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2270 outsize=1274 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4348 outsize=2883 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4348 outsize=1810 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2802 outsize=2338 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2802 outsize=2728 kw=DIRECTIONAL ok=1
+Cmd: preprocess
+  insize=1782 outsize=3227 ok=1

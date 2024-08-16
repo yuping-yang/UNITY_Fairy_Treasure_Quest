@@ -1,0 +1,39 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce MX250 (ID=0x1d13)
+    Vendor:   NVIDIA
+    VRAM:     1982 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\GitHub_Project\Games\Fairy Treasure Quest\Fairy Treasure Quest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\GitHub_Project\Games\Fairy Treasure Quest\Fairy Treasure Quest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\GitHub_Project\Games\Fairy Treasure Quest\Fairy Treasure Quest_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\GitHub_Project\Games\Fairy Treasure Quest\Fairy Treasure Quest_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\GitHub_Project\Games\Fairy Treasure Quest\Fairy Treasure Quest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\GitHub_Project\Games\Fairy Treasure Quest\Fairy Treasure Quest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.235 seconds
+desktop: 2560x1600 60Hz; virtual: 2560x1600 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+Platform assembly: E:\GitHub_Project\Games\Fairy Treasure Quest\Fairy Treasure Quest_Data\Managed\System.Core.dll (this message is harmless)
+UnloadTime: 0.441900 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 300.
+Total: 3.911900 ms (FindLiveObjects: 0.018300 ms CreateObjectMapping: 0.013500 ms MarkObjects: 0.156700 ms  DeleteObjects: 2.775000 ms)
+
+Platform assembly: E:\GitHub_Project\Games\Fairy Treasure Quest\Fairy Treasure Quest_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 0.571700 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 155 unused Assets to reduce memory usage. Loaded Objects now: 156.
+Total: 8.055500 ms (FindLiveObjects: 0.016000 ms CreateObjectMapping: 0.010100 ms MarkObjects: 0.131500 ms  DeleteObjects: 7.014900 ms)
+
+UnloadTime: 0.450400 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 145.
+Total: 6.358100 ms (FindLiveObjects: 0.010800 ms CreateObjectMapping: 0.012100 ms MarkObjects: 0.135700 ms  DeleteObjects: 5.512500 ms)
+
