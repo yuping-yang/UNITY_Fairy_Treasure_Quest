@@ -1,4 +1,4 @@
-Fairy Treasure Quest！
+Fairy Treasure Quest!
 Double-click 'Fairy Treasure Quest.exe' to start the game.
 =================
 Game Description:
